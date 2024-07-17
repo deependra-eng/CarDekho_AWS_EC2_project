@@ -22,10 +22,10 @@ executing==2.0.1
 fastjsonschema==2.20.0
 fonttools==4.53.1
 gitdb==4.0.11
-GitPython==3.1.43
+GitPython
 idna==3.7
 ipykernel==6.29.5
-ipython==8.12.3
+ipython
 jedi==0.19.1
 Jinja2==3.1.4
 joblib==1.4.2
@@ -62,9 +62,9 @@ pyarrow==16.1.0
 pydeck==0.9.1
 Pygments==2.18.0
 pyparsing==3.1.2
-python-dateutil==2.9.0.post0
+python-dateutil
 pytz==2024.1
-pywin32==306
+pywin32
 pyzmq==26.0.3
 referencing==0.35.1
 requests==2.32.3
