@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-python
+python==3.0
